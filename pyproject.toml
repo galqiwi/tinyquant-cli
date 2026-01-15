@@ -34,7 +34,7 @@ dependencies = [
 ]
 
 [project.scripts]
-tinyquant-cli = "tinyquant_cli.cli:main"
+tinyquant-cli = "tinyquant_cli.cli:app"
 
 [project.urls]
 Homepage = "https://github.com/yourusername/tinyquant-cli"
